@@ -9,9 +9,13 @@ This project focuses on predicting house prices using Machine Learning technique
 **Key analyses performed:**
 
 1.House price distribution
+
 2.Area vs price relationship
+
 3.Bedrooms vs price analysis
+
 4.Bathrooms vs price analysis
+
 5.Correlation heatmap for feature relationships
 
 **Models Used**
